@@ -5,9 +5,7 @@
 <a href="https://jane-cake-shop.netlify.app/" align="left">Jane cake shop</a>
 
   <h3 align="left">Mobile projects</h3>
-  <a href="https://www.figma.com/proto/RzfJFfZlD8U6PiIoHG9LGb/Wireframe-UMI?type=design&node-id=622-8496&t=pIrIpxnvA9zLDlLE-1&scaling=scale-down&page-id=622%3A4807&starting-point-node-id=768%3A5844&mode=design" align="center">Umi App</a>
-
-- 💼 Portfolio in Behance 🤗 [https://www.behance.net/anadelahernndez2](https://www.behance.net/anadelahernndez2)
+  <a href="https://www.figma.com/proto/RzfJFfZlD8U6PiIoHG9LGb/Wireframe-UMI?type=design&node-id=622-8496&t=pIrIpxnvA9zLDlLE-1&scaling=scale-down&page-id=622%3A4807&starting-point-node-id=768%3A5844&mode=design" align="center">Umi application design</a>
 
 - 📫 How to reach me **anadelahernandez74@gmail.com**
 
