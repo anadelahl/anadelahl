@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anadela Hernandez</h1>
-<h3 align="center">A passionate front-end developer from Colombia</h3>
+<h3 align="center">A passionate UX/UI Designer from Colombia</h3>
 
 <h3 align="left">Web projects</h3>
 <a href="https://jane-cake-shop.netlify.app/" align="left">Jane cake shop</a>
